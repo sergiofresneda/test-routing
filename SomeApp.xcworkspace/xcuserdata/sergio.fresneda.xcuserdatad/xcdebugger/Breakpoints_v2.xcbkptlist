@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7938E4FD-442E-4789-89BB-B34F1AA0A7DE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD62AD59-ECD1-4DE4-AC34-106BE7DA143A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "setState(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD62AD59-ECD1-4DE4-AC34-106BE7DA143A - 4ba0107ac261eecc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SomeApp.Module1Router.setState(SomeApp.Module1State) -&gt; ()"
+                  moduleName = "SomeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergio.fresneda/Desktop/RoutingDemo/SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "BD62AD59-ECD1-4DE4-AC34-106BE7DA143A - 4ba0107ac261eecc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SomeApp.Module1Router.setState(SomeApp.Module1State) -&gt; ()"
+                  moduleName = "SomeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergio.fresneda/Desktop/RoutingDemo/SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FED24DBB-7AF0-4225-A205-2D3614FC8287"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "setState(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FED24DBB-7AF0-4225-A205-2D3614FC8287 - 4ba0107ac261eeaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SomeApp.Module1Router.setState(SomeApp.Module1State) -&gt; ()"
+                  moduleName = "SomeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergio.fresneda/Desktop/RoutingDemo/SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "FED24DBB-7AF0-4225-A205-2D3614FC8287 - 4ba0107ac261eeaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SomeApp.Module1Router.setState(SomeApp.Module1State) -&gt; ()"
+                  moduleName = "SomeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergio.fresneda/Desktop/RoutingDemo/SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "FED24DBB-7AF0-4225-A205-2D3614FC8287 - 4ba0107ac261ee69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SomeApp.Module1Router.setState(SomeApp.Module1State) -&gt; ()"
+                  moduleName = "SomeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergio.fresneda/Desktop/RoutingDemo/SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C4F4878-7D5D-4BBD-A457-87D8F29E3884"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SomeApp/SomeApp/Navigation/Router/Module1Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setState(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
